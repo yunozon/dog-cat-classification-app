@@ -1,4 +1,4 @@
-./work/data/*.jpg
+/work/data/
 
 .DS_Store
 
