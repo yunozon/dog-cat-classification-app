@@ -1,5 +1,11 @@
 /work/data/
+data/
 
 .DS_Store
+weights/
+
+# environment
+dog_cat_classification_env/
 
 .ipynb_checkpoints/
+
